@@ -16,7 +16,7 @@ APP_ID = int(os.environ.get("APP_ID",  "28891870"))
 API_HASH = os.environ.get("API_HASH", "ffc3794690bf254d2867ac58fd293a60")
 
 #Your db channel Id --⚠️ REQUIRED--
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003332528912"))
 
 #OWNER ID --⚠️ REQUIRED--
 OWNER_ID = int(os.environ.get("OWNER_ID", "5943264505"))
@@ -28,9 +28,9 @@ SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "")
 PORT = os.environ.get("PORT", "8080")
 
 #Database --⚠️ REQUIRED--
-DB_URI = os.environ.get("DATABASE_URL", "")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Krishna:krishna@cluster0.ecime.mongodb.net/")
 
-DB_NAME = os.environ.get("DATABASE_NAME", "")
+DB_NAME = os.environ.get("DATABASE_NAME", "mykdramafile01")
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
