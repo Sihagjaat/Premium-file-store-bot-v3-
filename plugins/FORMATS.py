@@ -45,8 +45,8 @@ HELP_TEXT = """<b>⁉️ Hᴇʟʟᴏ {mention} ~
 <b><i>◈ Sᴛɪʟʟ ʜᴀᴠᴇ ᴅᴏᴜʙᴛs, ᴄᴏɴᴛᴀᴄᴛ ʙᴇʟᴏᴡ ᴘᴇʀsᴏɴs/ɢʀᴏᴜᴘ ᴀs ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅ !</i></b>"""
 
 ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
-<blockquote expandable>›› ᴏᴡɴᴇʀ: <a href='tg://openmessage?user_id=8053451072'>ʜᴜɴᴛᴇʀ</a>
-›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href='https://t.me/Hunter_1006'>ʜᴜɴᴛᴇʀ</a></b></blockquote>"""
+<blockquote expandable>›› ᴏᴡɴᴇʀ: <a href='tg://openmessage?user_id=5943264505'>Online 🫆</a>
+›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href='https://t.me/Lord_Vasudev_Krishna'>𝚂𝚑𝚛𝚎𝚎 ꪎ 𝙺ʀɪ𝚜ʜɴᴀ ჯ ↝ 🍷</a></b></blockquote>"""
 
 SETTING_TXT = """<b>⚙️ Cᴏɴғɪɢᴜʀᴀᴛɪᴏɴs</b>
 <blockquote expandable>◈ ᴛᴏᴛᴀʟ ғᴏʀᴄᴇ sᴜʙ ᴄʜᴀɴɴᴇʟ:  <b>{total_fsub}</b>
