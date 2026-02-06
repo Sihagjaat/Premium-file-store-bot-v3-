@@ -169,11 +169,12 @@ async def user_setting_commands(client: Client, message: Message):
 HELP = "https://graph.org//file/10f310dd6a7cb56ad7c0b.jpg"
 @Bot.on_message(filters.command('help') & filters.private & ~banUser)
 async def help(client: Client, message: Message):
-    buttons = [
-        [
-            InlineKeyboardButton("🤖 Oᴡɴᴇʀ", url="https://t.me/Eren_Yeager_76")
-            InlineKeyboardButton("🧑‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/Eren_Yeager_76")
-        ]
+buttons = [
+    [
+        InlineKeyboardButton("🤖 OWNER", url="https://t.me/Eren_Yeager_76"),
+        InlineKeyboardButton("👨‍💻 DEVELOPER", url="https://t.me/Eren_Yeager_76")
+    ]
+]
     ]
     if SUPPORT_GROUP:
         buttons.insert(0, [InlineKeyboardButton("🌐 Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ Gʀᴏᴜᴘ", url=SUPPORT_GROUP)])
