@@ -25,11 +25,10 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "6883111123"))
 SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "")
 
 #Port
-PORT = os.environ.get("PORT", "8080")
+PORT = os.environ.get("PORT", "8000")
 
 #Database --⚠️ REQUIRED--
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://e55791917_db_user:RzXaeGE3AagxvADd@cluster0.ryscv19.mongodb.net/?appName=Cluster0
-")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Eren_Yeager:ErenYeager93@cluster0.ryscv19.mongodb.net/")
 
 DB_NAME = os.environ.get("DATABASE_NAME", "mykdramafile01")
 
