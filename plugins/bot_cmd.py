@@ -175,7 +175,6 @@ buttons = [
         InlineKeyboardButton("👨‍💻 DEVELOPER", url="https://t.me/Eren_Yeager_76")
     ]
 ]
-    ]
     if SUPPORT_GROUP:
         buttons.insert(0, [InlineKeyboardButton("🌐 Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ Gʀᴏᴜᴘ", url=SUPPORT_GROUP)])
 
