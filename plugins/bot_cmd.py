@@ -171,7 +171,7 @@ HELP = "https://graph.org//file/10f310dd6a7cb56ad7c0b.jpg"
 async def help(client: Client, message: Message):
     buttons = [
         [
-            InlineKeyboardButton("🤖 Oᴡɴᴇʀ", url=https://t.me/Eren_Yeager_76"), 
+            InlineKeyboardButton("🤖 Oᴡɴᴇʀ", url="https://t.me/Eren_Yeager_76")
             InlineKeyboardButton("🧑‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/Eren_Yeager_76")
         ]
     ]
