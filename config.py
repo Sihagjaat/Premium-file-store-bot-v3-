@@ -28,7 +28,7 @@ SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "")
 PORT = os.environ.get("PORT", "8000")
 
 #Database --⚠️ REQUIRED--
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Eren_Yeager:ErenYeager93@cluster0.ryscv19.mongodb.net/")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://e55791917_db_user:RzXaeGE3AagxvADd@cluster0.ryscv19.mongodb.net/?retryWrites=true&w=majority")
 
 DB_NAME = os.environ.get("DATABASE_NAME", "mykdramafile01")
 
